@@ -8,11 +8,14 @@ This course aims to introduce the basic notions to design, develop, and analyze 
 ## Editions
 
 First Edition: March to April 2024
+
 Second Edition: November to December 2024
 
 ## Content
 
 Each folder contains the slides and the code used in the corresponding lecture. Feel free to use them to learn and develop novel quantum algorithms!
+
+Every Live Script has been executed with MATLAB R2024b. 
 
 ## Acknowledgements
 
