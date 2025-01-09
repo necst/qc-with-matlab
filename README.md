@@ -14,8 +14,12 @@ Second Edition: November to December 2024
 
 Each folder contains the slides and the code used in the corresponding lecture. Feel free to use them to learn and develop novel quantum algorithms!
 
+## Acknowledgements
+
+A special thanks to MathWorks, which has supported the Quantum Computing with MATLAB Curriculum Development Project.
+
 ## Contacts
 
-In case you have any doubts, feel free to reach out:
+In case you have any doubts, feel free to reach out the lecturer:
 
 Marco Venere - marco.venere@polimi.it
