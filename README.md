@@ -17,7 +17,7 @@ Each folder contains the slides and the code used in the corresponding lecture. 
 
 Every Live Script has been executed with MATLAB R2024b. 
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=necst/qc-with-matlab)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=necst/qc-with-matlab&file=readme_table.mlx)
 
 ## Acknowledgements
 
