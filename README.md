@@ -17,6 +17,8 @@ Each folder contains the slides and the code used in the corresponding lecture. 
 
 Every Live Script has been executed with MATLAB R2024b. 
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](matlab.mathworks.com/open/github/v1?repo=necst/qc-with-matlab)
+
 ## Acknowledgements
 
 A special thanks to MathWorks, which has supported the Quantum Computing with MATLAB Curriculum Development Project.
