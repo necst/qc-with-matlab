@@ -11,6 +11,8 @@ First Edition: March to April 2024
 
 Second Edition: November to December 2024
 
+Third Edition: March to April 2025
+
 ## Content
 
 Each folder contains the slides and the code used in the corresponding lecture. Feel free to use them to learn and develop novel quantum algorithms!
