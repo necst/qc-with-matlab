@@ -28,10 +28,13 @@ Furthermore, we provide novel projects to further dive into the amazing world of
 | Lecture 5  | VQE, QMC and QNN<br>Quantum Machine Learning| [Lecture5.pdf](https://github.com/necst/qc-with-matlab/blob/main/Lecture%205/Lecture5.pdf)   | - Variational Quantum Eigensolver: [lesson5_vqe.mlx](https://github.com/necst/qc-with-matlab/blob/main/Lecture%205/lesson5_vqe.mlx) (\*) <br>- Quantum Monte Carlo: [lesson5_qmc.mlx](https://github.com/necst/qc-with-matlab/blob/main/Lecture%205/lesson5_qmc.mlx) (\*) <br>- Quantum Neural Network for XOR problem: [lesson5_qnn.mlx](https://github.com/necst/qc-with-matlab/blob/main/Lecture%205/lesson5_qnn.mlx) (\*)                                                                                       | about 2 hrs|
 | Lecture 6  | Quantum Error Correction and mitigation     | [Lecture6.pdf](https://github.com/necst/qc-with-matlab/blob/main/Lecture%206/Lecture6.pdf)   | - 9-Qubit Shor Code: [lesson6.mlx](https://github.com/necst/qc-with-matlab/blob/main/Lecture%206/lesson6.mlx)                                                                                                                                                                                                                            | about 2 hrs|
 | PoliMi Students Projects   | MATLAB Quantum Computing Projects           | -              | - Milano Metro Stops: [Milano Metro Stops](https://github.com/necst/qc-with-matlab/blob/main/PoliMi%20Students%20Projects/Milano%20Metro%20Stops/Livescript.mlx)<br>- QAOA: [QAOA](https://github.com/necst/qc-with-matlab/blob/main/PoliMi%20Students%20Projects/QAOA/Exploring_QAOA.mlx)<br>- Bernstein-Vazirani: [Bernstein-Vazirani](https://github.com/necst/qc-with-matlab/blob/main/PoliMi%20Students%20Projects/BernsteinVazirani.mlx)<br>- QEC Repetition Codes: [QEC Repetition Codes](https://github.com/necst/qc-with-matlab/blob/main/PoliMi%20Students%20Projects/QEC_Repetition_Codes.mlx)<br>- QKD BB84: [QKD BB84](https://github.com/necst/qc-with-matlab/blob/main/PoliMi%20Students%20Projects/QKD_BB84.mlx)<br>- Shor's Algorithm: [Shor's Algorithm](https://github.com/necst/qc-with-matlab/blob/main/PoliMi%20Students%20Projects/Shor_Algorithm.mlx) | -          |
+| Theory Lectures | Slides from Theory Module | - | - | - |
 
 (\*) Based on MathWorks documentation or web sites.
 
-For PoliMi Students Projects, credits to: Matteo Rossi, Giovanni Stanghellini, Pietro Lanna, Simone Pellegatta, Giulia Blanchetti, Marco Venere
+For PoliMi Students Projects, credits to: Matteo Rossi, Giovanni Stanghellini, Pietro Lanna, Simone Pellegatta, Giulia Blanchetti, Marco Venere.
+
+For the Theory Module, credits to: Prof. Luca Barletta, Prof. Maurizio Magarini. 
 
 Every Live Script has been executed with MATLAB R2024b. 
 
