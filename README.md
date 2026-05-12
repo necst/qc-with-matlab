@@ -44,6 +44,21 @@ Every Live Script has been executed with MATLAB R2024b.
 
 A special thanks to MathWorks, which has supported the Quantum Computing with MATLAB Curriculum Development Project.
 
+## Credits
+
+If you wish to use this work or our teaching material/source code, please cite the following paper:
+```
+@INPROCEEDINGS{necstmathworks,
+  author={Rossi, Matteo and Stanghellini, Giovanni and Venere, Marco and Magarini, Maurizio and Barletta, Luca and Panarese, Paolo and Sciuto, Donatella and Santambrogio, Marco D},
+  booktitle={2026 IEEE Global Engineering Education Conference (EDUCON}, 
+  title={Bridging Theory and Practice: Teaching Quantum Algorithms Through MATLAB}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1--9},
+  keywords={Quantum Algorithms;MATLAB;Project-Based Learning}}
+```
+
 ## Contacts
 
 In case you have any doubts, feel free to reach out:
